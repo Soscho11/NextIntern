@@ -1,0 +1,6 @@
+{
+  "name": "NextIntern AI - AI Workplace Simulator & Micro-Internship Platform",
+  "description": "Bridge the entry-level experience catch-22 with realistic enterprise workplace simulations, Socratic AI mentorship, multi-dimensional rubric evaluations, and tamper-proof proof-of-work portfolios.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
